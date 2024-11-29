@@ -19,10 +19,30 @@ function userInfo(info){
 }
 userInfo(user)*/
 
-//                         function and Array
+//                         function and Array                   //
 
-const Arr=[1,2,3,4,55]
+/*const Arr=[1,2,3,4,55]
 function getNum(getArray){
-    console.log(getArray[0]);
+    console.log(getArray[2]);
 }
-getNum(Arr)
+getNum(Arr)*/
+
+//                          Arrow function                           //
+
+/*let userName="sheraz"
+function print(){
+    console.log(this.userName);
+    
+}
+console.log(print())*/
+
+// arrow function
+/*const addNum = (num1,num2)=> {
+        return num1+num2;
+}
+console.log(addNum(3,6));*/
+
+// Another way of writing arrow function
+
+//  const addNum = (num1, num2)=> (num1 + num2)
+//  console.log(addNum(3,5))
