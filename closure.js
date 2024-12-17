@@ -13,6 +13,8 @@
 closure();*/
 
 //                      closure                         //
+// when function execute, its lexical scope return, it return value to outer function
+//
 function closure(){
     let name= "Firefox"
     console.log(name);
